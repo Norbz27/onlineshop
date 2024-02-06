@@ -1,0 +1,41 @@
+1. Huawei Nova 5T
+Performance:	HiSilicon Kirin
+Storage: 128 GB
+Camera:	48+16+2+2 MP
+Battery: 3750 mAh
+Display: 6.26" (15.9 cm)
+Ram: 8 GB
+Launch Date In India: April 2, 2020 (Expected)
+
+2. OPPO A5s
+Display: 6.20-inch(1520x720)
+Processor: MediaTek Hello P35
+Front Camera: 8MP
+Rear Camera: 13mp+2mp
+RAM: 2GB
+Storage: 32GB
+Battery Capacity: 4230mAh
+
+3. SAMSUNG GALAXY A50S
+Performance:	Samsung Exynos 9 Octa
+Storage:	128 GB
+Camera:	48MP + 8MP + 5MP
+Battery:	4000 mAh
+Display:	6.4" (16.26 cm)
+Ram:	4 GB
+
+4. OPPO RENO 3 PRO
+Performance:	MediaTek Helio P95
+Storage:	128 GB
+Camera:	64+13+8+2 MP
+Battery:	4025 mAh
+Display:	6.4" (16.26 cm)
+Ram:	8 GB
+
+5. REALME 6 PRO
+Performance:	Snapdragon 720G
+Storage:	64 GB
+Camera:	64+8+5+2 MP
+Battery:	5000 mAh
+Display:	6.4" (16.26 cm)
+Ram:	6 GB

@@ -1,0 +1,23 @@
+1. DATA TRAVELLER 104
+
+Specifactions:
+
+Capacities: 64GB
+Speed:  USB 2.0 speeds
+Dimensions: 69.62mm x 22.14mm x 12.76mm
+Weight: 11g
+Operating Temperatures: 0°C to 60°C
+Storage Temperatures: -20°C to 85°C
+Compatible with: Windows® 10, Windows 8.1, Windows 8, Windows 7 (SP1), Mac OS (v. 10.10.x+), Linux v. 2.6.x+, Chrome™ OS
+
+2. ADATA UV128
+
+Specification:
+
+Capacity: 64GB
+Color: Blue & Black
+Dimensions (L x W x H): 60 x 20 x 9mm (L x W x H)
+Weight: 10g
+Interface: USB 3.2 Gen1 (backward compatible with USB 2.0)
+Performance: N/A
+System Requirements: Windows XP / Vista / 7 / 8 / 8.1 / 10 or later, Mac OSX 10.5 or later, Linux Kernel 2.6 or later

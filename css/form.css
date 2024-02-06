@@ -1,0 +1,15 @@
+body{
+	font-family: 'Poppins', sans-serif; 
+}
+.title{
+	font-weight:800;
+	font-size: 40px;
+	color:black;
+	padding-bottom:20px;
+}
+.form{
+	background-color:white;
+	float:right; 
+	padding: 60px 60px 0px 60px;
+	color: #5b5b5b;
+}
